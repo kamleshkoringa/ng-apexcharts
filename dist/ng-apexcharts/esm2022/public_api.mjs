@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of ng-apexcharts
+ */
+export * from './lib/ng-apexcharts.module';
+export * from './lib/chart/chart.component';
+export * from './lib/model/apex-types';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL25nLWFwZXhjaGFydHMvc3JjL3B1YmxpY19hcGkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7O0dBRUc7QUFFSCxjQUFjLDRCQUE0QixDQUFDO0FBQzNDLGNBQWMsNkJBQTZCLENBQUM7QUFDNUMsY0FBYyx3QkFBd0IsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXHJcbiAqIFB1YmxpYyBBUEkgU3VyZmFjZSBvZiBuZy1hcGV4Y2hhcnRzXHJcbiAqL1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbmctYXBleGNoYXJ0cy5tb2R1bGUnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9jaGFydC9jaGFydC5jb21wb25lbnQnO1xyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tb2RlbC9hcGV4LXR5cGVzJztcclxuIl19
